@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDefteriApi", "NotDefteriApi\NotDefteriApi.csproj", "{855A1DA9-4C88-4D5B-B728-19811084AD38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855A1DA9-4C88-4D5B-B728-19811084AD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855A1DA9-4C88-4D5B-B728-19811084AD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855A1DA9-4C88-4D5B-B728-19811084AD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855A1DA9-4C88-4D5B-B728-19811084AD38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40207944-2038-4152-8C1F-782006160E8D}
+	EndGlobalSection
+EndGlobal
